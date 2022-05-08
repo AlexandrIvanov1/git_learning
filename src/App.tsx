@@ -20,6 +20,7 @@ function App() {
         </a>
       </header>
       <div>Create new branch</div>
+      <div>Create new branch - 2</div>
     </div>
   );
 }
