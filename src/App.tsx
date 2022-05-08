@@ -19,6 +19,7 @@ function App() {
           Learn React
         </a>
       </header>
+      <div>Create new branch</div>
     </div>
   );
 }
